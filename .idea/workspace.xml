@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79733083-5c16-42c4-a3e1-45607e245959" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b-ui-01-web/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1701">
+              <caret line="125" column="20" lean-forward="false" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!block;n#scripts#0;n#!!top" expanded="false" />
+                <element signature="e#908#936#0" expanded="false" />
+                <element signature="n#!!block;n#devDependencies#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#lint-staged#0;n#!!top" expanded="false" />
+                <element signature="e#3479#3534#0" expanded="false" />
+                <element signature="e#3548#3622#0" expanded="false" />
+                <element signature="e#3638#3715#0" expanded="false" />
+                <element signature="e#3731#3759#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tepm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b-ui-01-web/bin/tepm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b-ui-01-web/command/list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/b-ui-01-web/command/init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b-ui-01-web/template.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b-ui-01-web/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-891">
+              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/b-ui-01-web/command/add.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/package.json" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/command/list.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/bin/tepm" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/command/init.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.0\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/b-ui-01-web/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="131" />
+    <option name="y" value="83" />
+    <option name="width" value="1377" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="template-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="template-cli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="template-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="template-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="b-ui-01-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="template-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="template-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="b-ui-01-web" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="template-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="template-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="b-ui-01-web" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\template-cli\b-ui-01-web\bin" />
+      <recent name="E:\template-cli\b-ui-01-web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79733083-5c16-42c4-a3e1-45607e245959" name="Default" comment="" />
+      <created>1557455492733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557455492733</updated>
+      <workItem from="1557455495647" duration="6069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6069000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/tpl/schema.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/tpl/schema.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/tpl/schema.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/tpl/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/tpl/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/tpl/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/core/lang.config.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/core/lang.config.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/core/lang.config.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/curd/schema.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/curd/schema.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/curd/schema.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/curd/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/curd/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/curd/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/edit/schema.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/edit/schema.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/edit/schema.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/edit/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/edit/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/edit/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/list/schema.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/list/schema.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/list/schema.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/list/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/list/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/list/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/view/schema.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/view/schema.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/view/schema.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/view/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/view/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/view/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/empty/schema.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/empty/schema.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/empty/schema.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/empty/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/empty/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/empty/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/contents.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/contents.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/contents.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/html.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/html.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/html.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/interfaces.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/interfaces.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/interfaces.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/alain.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/alain.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/alain.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/lib-versions.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/lib-versions.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/lib-versions.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/json.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/json.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/json.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/project.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/project.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/project.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/testing.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/testing.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/testing.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/file.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/file.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/file.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/ast.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/ast.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/ast.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/latest-versions.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/latest-versions.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/latest-versions.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/change.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/change.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/change.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/find-module.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/find-module.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/find-module.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/parse-name.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/parse-name.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/parse-name.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/config.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/config.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/config.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/project.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/project.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/project.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/dependencies.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/dependencies.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/dependencies.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/ast-utils.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/ast-utils.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/ast-utils.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/ng-ast-utils.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/ng-ast-utils.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/ng-ast-utils.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/json-utils.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/json-utils.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/json-utils.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/validation.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/validation.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/utils/devkit-utils/validation.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/module/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/module/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/module/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-add/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-add/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-add/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.code-style.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.code-style.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.code-style.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.asdf.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.asdf.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.asdf.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.docker.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.docker.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.docker.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.hmr.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.hmr.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.hmr.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.default-language.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.default-language.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.default-language.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/interface.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/interface.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/interface.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.network-env.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.network-env.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.network-env.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.g2.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.g2.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.g2.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.icon.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.icon.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/plugin/plugin.icon.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-data.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-data.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-data.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/target-version.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/target-version.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/target-version.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/dom/dom.service.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/dom/dom.service.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/dom/dom.service.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/dom/interfaces.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/dom/interfaces.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/dom/interfaces.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/data/class-names.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/data/class-names.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/data/class-names.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/data/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/data/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/data/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/data/css-selectors.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/data/css-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/data/css-selectors.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/tslint/component-walker.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/tslint/component-walker.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/tslint/component-walker.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/tslint/component-file.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/tslint/component-file.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/tslint/component-file.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/tslint/external-failure-walker.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/tslint/external-failure-walker.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/tslint/external-failure-walker.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/base-types.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/base-types.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/base-types.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/literal.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/literal.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/literal.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/imports.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/imports.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/imports.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/module-specifiers.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/module-specifiers.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/typescript/module-specifiers.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/html-parsing/elements.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/html-parsing/elements.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/html-parsing/elements.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/html-parsing/angular.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/html-parsing/angular.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/html-parsing/angular.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/project-tsconfig-paths.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/project-tsconfig-paths.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/project-tsconfig-paths.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/tslint-config.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/tslint-config.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/tslint-config.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/index.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/v2/v2DomRule.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/v2/v2DomRule.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/v2/v2DomRule.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/v2/v2LayoutRule.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/v2/v2LayoutRule.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/v2/v2LayoutRule.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/class-names/classNamesIdentifierRule.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/class-names/classNamesIdentifierRule.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/class-names/classNamesIdentifierRule.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/misc-checks/checkPropertyNamesMiscRule.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/misc-checks/checkPropertyNamesMiscRule.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/misc-checks/checkPropertyNamesMiscRule.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/css-selectors/cssSelectorsStylesheetRule.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/css-selectors/cssSelectorsStylesheetRule.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/css-selectors/cssSelectorsStylesheetRule.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/css-selectors/cssSelectorsTemplateRule.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/css-selectors/cssSelectorsTemplateRule.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/css-selectors/cssSelectorsTemplateRule.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/css-selectors/cssSelectorsStringLiteralRule.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/css-selectors/cssSelectorsStringLiteralRule.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/ng-update/upgrade-rules/css-selectors/cssSelectorsStringLiteralRule.js.map" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/application/index.js" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/application/index.d.ts" />
+        <option value="$PROJECT_DIR$/b-ui-01-web/node_modules/ng-alain/application/index.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/b-ui-01-web/template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b-ui-01-web/command/add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b-ui-01-web/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b-ui-01-web/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="125" column="20" lean-forward="false" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!block;n#scripts#0;n#!!top" expanded="false" />
+            <element signature="e#908#936#0" expanded="false" />
+            <element signature="n#!!block;n#devDependencies#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#lint-staged#0;n#!!top" expanded="false" />
+            <element signature="e#3479#3534#0" expanded="false" />
+            <element signature="e#3548#3622#0" expanded="false" />
+            <element signature="e#3638#3715#0" expanded="false" />
+            <element signature="e#3731#3759#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b-ui-01-web/bin/tepm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b-ui-01-web/command/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b-ui-01-web/command/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
